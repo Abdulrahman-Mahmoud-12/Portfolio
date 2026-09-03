@@ -75,7 +75,7 @@ function TiltImage() {
         transformStyle: "preserve-3d",
         perspective: 800,
       }}
-      className="relative w-64 h-64 sm:w-72 sm:h-72 lg:w-[340px] lg:h-[340px] cursor-default"
+      className="relative w-72 h-72 sm:w-80 sm:h-80 lg:w-[390px] lg:h-[390px] cursor-default"
     >
       <div className="absolute -inset-4 rounded-full bg-gradient-to-br from-accent/20 via-accent-2/10 to-transparent blur-3xl animate-pulse-slow" />
       <div className="absolute -inset-1.5 rounded-full border border-accent/10 animate-spin-slow" />
@@ -96,7 +96,7 @@ function TiltImage() {
           src="/images/profile.jpg"
           alt="Abdelrahman Mahmoud"
           fill
-          sizes="(max-width:768px) 256px, 340px"
+          sizes="(max-width:768px) 288px, 390px"
           className="object-cover object-top"
           priority
         />
@@ -163,7 +163,7 @@ export default function Hero() {
               initial="hidden"
               animate="visible"
               variants={fade}
-              className="text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-display font-black leading-[1.0] tracking-tight"
+              className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-display font-black leading-[1.05] tracking-tight"
             >
               <span className="text-white/80">{hero.slogan}</span>
               <br />

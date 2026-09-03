@@ -33,8 +33,8 @@ export const hero: HeroContent = {
     "Data Scientist",
     "AI Researcher",
   ],
-  slogan: "Machine doesn't think,",
-  sloganAccent: "It Learns.",
+  slogan: "# Intelligence isn't coded,",
+  sloganAccent: "it's learned.",
   subtext:
     "AI-focused Computer Science and Engineering student specializing in Machine Learning, Computer Vision, and intelligent system development — transforming data into scalable, real-world AI solutions.",
   stats: [
