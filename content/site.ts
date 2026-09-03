@@ -73,6 +73,7 @@ export const education: Education = {
   major: "Computer Engineering",
   gpa: "3.58 / 4",
   grade: "Excellent",
+  startDate: "Aug 2023",
   period: "Aug 2023 – Present",
   coursework: [
     "Artificial Intelligence",
