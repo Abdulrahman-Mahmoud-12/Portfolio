@@ -47,7 +47,7 @@ export const hero: HeroContent = {
   ctaCV: "View CV",
   ctaContact: "Contact Me",
   cvUrl:
-    "https://drive.google.com/file/d/13lvJ387xZnwPrZRVKc3-nCEpkoW4bAA6/view?usp=sharing",
+    "https://drive.google.com/file/d/135BC6_U6hqE3eVKleKy57IVNB58ylHxm/view?usp=sharing",
 };
 
 export const about: AboutContent = {
@@ -470,7 +470,7 @@ export const achievements: Achievement[] = [
     title: "MTC AIC4 Competition",
     description:
       "Competed in the MTC AIC4 AI competition, achieving a strong leaderboard position among top AI practitioners and students in Egypt.",
-    date: "2025",
+    date: "2026",
     icon: "Trophy",
     type: "competition",
     images: ["/images/mtc-leaderboard.png", "/images/mtc-submission.png"],
@@ -479,7 +479,7 @@ export const achievements: Achievement[] = [
     title: "AI Hackathon Participation",
     description:
       "Participated in a competitive AI Hackathon, applying machine learning and computer vision skills to solve real-world challenges under time constraints.",
-    date: "2024",
+    date: "2026",
     icon: "Zap",
     type: "competition",
     images: ["/images/ach-hackathon1.jpg", "/images/ach-hackathon2.jpg"],
@@ -487,19 +487,10 @@ export const achievements: Achievement[] = [
   {
     title: "Selected — Digital Egypt Pioneers",
     description:
-      "Competitively selected for the Microsoft ML Engineer Track under Egypt's national Digital Egypt Pioneers program.",
-    date: "December 2025",
+      "Selected by Eyouth as the AI/ML representative to join a cross-track team for the program's Mega Project, collaborating with trainees from multiple technical tracks.",
+    date: "2026",
     icon: "Award",
     type: "award",
-    images: [],
-  },
-  {
-    title: "NASA SpaceApps Hackathon",
-    description:
-      "Participated in the NASA SpaceApps Shebin El-Kom hackathon, applying AI skills to space exploration challenges.",
-    date: "2024",
-    icon: "Rocket",
-    type: "competition",
     images: [],
   },
 ];
