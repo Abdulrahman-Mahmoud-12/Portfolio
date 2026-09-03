@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdelrahman-mahmoud-ai.vercel.app/sitemap.xml
