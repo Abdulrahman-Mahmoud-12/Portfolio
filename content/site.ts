@@ -497,15 +497,9 @@ export const achievements: Achievement[] = [
 
 export const certifications: Certification[] = [
   {
-    name: "Generative AI Training",
-    issuer: "NVIDIA Deep Learning Institute",
-    image: "",
-  },
-  { name: "Python Programming", issuer: "FreeCodeCamp", image: "" },
-  {
-    name: "NASA SpaceApps Bootcamp",
-    issuer: "NASA SpaceApps Shebin El-Kom",
-    image: "/images/cert-nasa.png",
+    name: "Computer Vision Training",
+    issuer: "National Telecommunication Institute (NTI)",
+    image: "/images/cert-nti_cv.png",
   },
   {
     name: "Freelancing Training",
@@ -521,6 +515,16 @@ export const certifications: Certification[] = [
     name: "Building RAG Agents with LLMs",
     issuer: "NVIDIA DLI",
     image: "/images/cert-rag.png",
+  },
+  {
+    name: "S'26 AI team Member",
+    issuer: "IEEE Menofia SB",
+    image: "/images/cert-ieee_26.png",
+  },
+  {
+    name: "NASA SpaceApps Bootcamp",
+    issuer: "NASA SpaceApps Shebin El-Kom",
+    image: "/images/cert-nasa.png",
   },
 ];
 
